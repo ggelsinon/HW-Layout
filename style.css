@@ -1,0 +1,26 @@
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.headertext, .nav, .section, .aside, .header.box, .footer, pbox, .headerbox {
+    background: white;
+    text-align: center;
+    color: grey;
+}
+.section {
+    float: left;
+}
+
+.article {
+    background: grey;
+    text-align: center;
+    color: white
+}
+
+.container {
+    background: grey;
+}
+}
