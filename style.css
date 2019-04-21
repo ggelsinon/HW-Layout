@@ -26,6 +26,9 @@ article{
     color: #ebebeb;
     text-align: center;
     width: 350px;
+    height: 275px;
+    margin-top: 75px;
+    margin-left: 80px;
     float: left;
     position: absolute;
     
@@ -43,9 +46,20 @@ nav {
     position: absolute
 
 }
+
+.hs{
+    padding: 30px, 75px, 30px, 75px;
+    margin-top: 80px;
+    margin-left: 120px
+}
+
+p {
+
+}
 aside{
     float: left;
-    width: 250px
+    width: 425px;
+    height: 400px;
 }
 
 .clearfix::after {
