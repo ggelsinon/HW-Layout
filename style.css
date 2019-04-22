@@ -42,9 +42,10 @@ nav {
     height: 85px
 }
 
-.hs, p {
+.hs, p{
     position: absolute
     width: 400px;
+    height: 75px;
 
 }
 
