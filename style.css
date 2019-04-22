@@ -16,7 +16,7 @@ header, nav, section, aside, .hs, footer, p {
 section {
     float: left;
     width: 495px;
-    height: 400px;
+    height: 300px;
     position: relative;
   
 }
@@ -25,41 +25,33 @@ article{
     background: #777;
     color: #ebebeb;
     text-align: center;
-    width: 350px;
-    height: 275px;
-    margin-top: 75px;
-    margin-left: 80px;
+    width: 475px;
+    height: 225px;
+    margin-top: 70px;
+    margin-left: 20px;
     float: left;
     position: absolute;
     
 }
 
 header, footer{
-    height: 75px
+    height: 100px
 }
 
 nav {
-    height: 70px
+    height: 85px
 }
 
 .hs, p {
     position: absolute
+    width: 400px;
 
 }
 
-.hs{
-    padding: 30px, 75px, 30px, 75px;
-    margin-top: 80px;
-    margin-left: 120px
-}
-
-p {
-
-}
 aside{
     float: left;
     width: 425px;
-    height: 400px;
+    height: 300px;
 }
 
 .clearfix::after {
