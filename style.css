@@ -43,10 +43,17 @@ nav {
 }
 
 .hs, p{
-    position: absolute
-    width: 400px;
+    width: 450px;
     height: 75px;
 
+}
+
+.hs {
+    margin: 35px, 
+}
+
+p {
+    margin: 0px, 35px
 }
 
 aside{
